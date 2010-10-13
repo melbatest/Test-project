@@ -1,4 +1,4 @@
 <?php
-$hello = 'hello';
+$hello = 'hello2';
 
 ?>
